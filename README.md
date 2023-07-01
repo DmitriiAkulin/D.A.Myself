@@ -2,9 +2,9 @@
 
 My name is Dmitriy.
 
-I am an airtraffic controller/
+I am an airtraffic controller.
 
-I wont to be programmist.
+I want to be programmist.
 
 I am learning C++.
 
